@@ -2,7 +2,7 @@ tags:
   - kids
   - arrays
 languages:
-  - ruby
+  - javascript
 level: 1
 type:
   - lab

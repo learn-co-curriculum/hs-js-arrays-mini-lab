@@ -1,12 +1,12 @@
 ---
 tags: kids, arrays
-languages: ruby
+languages: javascript
 level: 1
 type: lab
 ---
 ##Know Your Four Letter Countries
-<img src="https://s3.amazonaws.com/after-school-assets/globe.jpeg" align="right" width="300px" hspace="10"> 
-+ Create an array called `four_letter_countries` with the following countries (in this order):
+<img src="https://s3.amazonaws.com/after-school-assets/globe.jpeg" align="right" width="300px" hspace="10">
++ Create an array called `fourLetterCountries` with the following countries (in this order):
 	- Chad
 	- Cuba
 	- Greenland
@@ -33,3 +33,6 @@ type: lab
 
 
 ### What does your final array look like?
+
+## Need some help?
+Check out this [resource](http://javascript.info/tutorial/array).
