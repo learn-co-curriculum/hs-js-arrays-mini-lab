@@ -31,3 +31,5 @@
 
 ## Need some help?
 Check out this [resource](http://javascript.info/tutorial/array).
+
+<a href='https://learn.co/lessons/hs-js-arrays-mini-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
